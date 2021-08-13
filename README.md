@@ -18,6 +18,6 @@
   
  
  
-  ![Snake animation](https://github.com/r0drig0liveira/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
